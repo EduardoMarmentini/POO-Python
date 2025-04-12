@@ -110,7 +110,7 @@ Aqui temos 5 subpastas, cada uma representando um dos princípios SOLID, com exe
 
 ```markdown
 ## 📖 Princípios SOLID — Resumo
-
+=====================================================================================================
 | Princípio | Nome                         | Objetivo                                               |
 |-----------|------------------------------|--------------------------------------------------------|
 | SRP       | Single Responsibility        | Uma classe, uma responsabilidade.                      |
@@ -118,3 +118,4 @@ Aqui temos 5 subpastas, cada uma representando um dos princípios SOLID, com exe
 | LSP       | Liskov Substitution          | Subclasses devem poder substituir as superclasses.     |
 | ISP       | Interface Segregation        | Interfaces específicas e focadas.                      |
 | DIP       | Dependency Inversion         | Depender de abstrações, não implementações.            |
+=====================================================================================================
