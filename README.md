@@ -48,7 +48,10 @@ Este repositório é voltado para estudos e experimentações com **Programaçã
 
    cd POO-Python
 
-   cd solid/02_OCP
+   cd solid/
+   python main.py
+
+   cd comum/
    python main.py
    ```
 
