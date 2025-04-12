@@ -1,4 +1,5 @@
 from models.Customer import Customer
+from models.Account import Account
 
 
 def main():
@@ -10,7 +11,12 @@ def main():
 
     print(Customer._clientes[0].conta)
 
-    
+    Customer._clientes[0].conta.changeStatus(Customer._clientes[0].conta)
+
+    print(Customer._clientes[0].conta)
+
+    Account.showAccounts()
+
 
 if __name__ == "__main__":
     main()
