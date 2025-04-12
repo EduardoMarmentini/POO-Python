@@ -14,7 +14,37 @@ Este repositório é voltado para estudos e experimentações com **Programaçã
 
 ## 🗂️ Estrutura do Repositório
 
-POO-Python/ │ ├── comum/ │ ├── carro.py │ ├── conta.py │ ├── heranca.py │ ├── main.py │ ├── pessoa.py │ └── veiculo.py │ └── solid/ ├── 01_SRP/ │ ├── leitor_arquivo.py │ └── main.py │ ├── 02_OCP/ │ ├── calculadora_area.py │ └── main.py │ ├── 03_LSP/ │ ├── forma.py │ └── main.py │ ├── 04_ISP/ │ ├── ave.py │ └── main.py │ └── 05_DIP/ ├── notificacao.py └── main.py
+POO-Python/
+│
+├── comum/
+│   ├── carro.py
+│   ├── conta.py
+│   ├── heranca.py
+│   ├── main.py
+│   ├── pessoa.py
+│   └── veiculo.py
+│
+└── solid/
+    ├── 01_SRP/
+    │   ├── leitor_arquivo.py
+    │   └── main.py
+    │
+    ├── 02_OCP/
+    │   ├── calculadora_area.py
+    │   └── main.py
+    │
+    ├── 03_LSP/
+    │   ├── forma.py
+    │   └── main.py
+    │
+    ├── 04_ISP/
+    │   ├── ave.py
+    │   └── main.py
+    │
+    └── 05_DIP/
+        ├── notificacao.py
+        └── main.py
+
 
 ### 📁 comum/
 
