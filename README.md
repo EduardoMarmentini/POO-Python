@@ -13,37 +13,38 @@ Este repositório é voltado para estudos e experimentações com **Programaçã
 ---
 
 ## 🗂️ Estrutura do Repositório
-
-POO-Python/
-│
-├── comum/
-│   ├── carro.py
-│   ├── conta.py
-│   ├── heranca.py
-│   ├── main.py
-│   ├── pessoa.py
-│   └── veiculo.py
-│
-└── solid/
-    ├── 01_SRP/
-    │   ├── leitor_arquivo.py
-    │   └── main.py
+```markdown
+    POO-Python/
     │
-    ├── 02_OCP/
-    │   ├── calculadora_area.py
-    │   └── main.py
+    ├── comum/
+    │   ├── carro.py
+    │   ├── conta.py
+    │   ├── heranca.py
+    │   ├── main.py
+    │   ├── pessoa.py
+    │   └── veiculo.py
     │
-    ├── 03_LSP/
-    │   ├── forma.py
-    │   └── main.py
-    │
-    ├── 04_ISP/
-    │   ├── ave.py
-    │   └── main.py
-    │
-    └── 05_DIP/
-        ├── notificacao.py
-        └── main.py
+    └── solid/
+        ├── 01_SRP/
+        │   ├── leitor_arquivo.py
+        │   └── main.py
+        │
+        ├── 02_OCP/
+        │   ├── calculadora_area.py
+        │   └── main.py
+        │
+        ├── 03_LSP/
+        │   ├── forma.py
+        │   └── main.py
+        │
+        ├── 04_ISP/
+        │   ├── ave.py
+        │   └── main.py
+        │
+        └── 05_DIP/
+            ├── notificacao.py
+            └── main.py
+```
 
 
 ### 📁 comum/
@@ -110,10 +111,10 @@ Aqui temos 5 subpastas, cada uma representando um dos princípios SOLID, com exe
 ```markdown
 ## 📖 Princípios SOLID — Resumo
 
-| Princípio | Nome                         | Objetivo |
-|-----------|------------------------------|----------|
-| SRP       | Single Responsibility        | Uma classe, uma responsabilidade. |
+| Princípio | Nome                         | Objetivo                                               |
+|-----------|------------------------------|--------------------------------------------------------|
+| SRP       | Single Responsibility        | Uma classe, uma responsabilidade.                      |
 | OCP       | Open/Closed                  | Código aberto para extensão, fechado para modificação. |
-| LSP       | Liskov Substitution          | Subclasses devem poder substituir as superclasses. |
-| ISP       | Interface Segregation        | Interfaces específicas e focadas. |
-| DIP       | Dependency Inversion         | Depender de abstrações, não implementações. |
+| LSP       | Liskov Substitution          | Subclasses devem poder substituir as superclasses.     |
+| ISP       | Interface Segregation        | Interfaces específicas e focadas.                      |
+| DIP       | Dependency Inversion         | Depender de abstrações, não implementações.            |
