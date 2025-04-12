@@ -19,7 +19,7 @@ Este repositório é voltado para estudos e experimentações com **Programaçã
     ├── comum/
     │   ├── models/
     |   |   └── Account.py
-    |   |    └── Customer.py
+    |   |   └── Customer.py
     |   └── app.py
     |
     └── solid/
